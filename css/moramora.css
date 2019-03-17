@@ -4,6 +4,16 @@ body {
   padding-bottom: 6rem;
 }
 
+.citation {
+  display: block;
+}
+@media(min-width: 1024px) {
+  .citation {
+    display: inline;
+    margin-right: 2rem;
+  }   
+}
+
 .quotes {
   font-family: 'Arapey', serif;
   font-size: 1.3em;
