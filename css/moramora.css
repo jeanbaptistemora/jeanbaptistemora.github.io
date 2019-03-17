@@ -1,0 +1,42 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 6rem;
+}
+
+.quotes {
+  font-family: 'Arapey', serif;
+  font-size: 1.3em;
+  color: #727272;
+  padding: 0.2rem;
+}
+
+.is-link {
+  color: #ff3860;
+}
+
+.is-link:hover, .is-link:focus, .is-link:active {
+  color: #74041a;
+}
+
+nav.navbar {
+  padding: 0.2rem 2rem;
+}
+
+nav .navbar-item {
+  padding: 0;
+  margin: .5rem;
+}
+
+nav .navbar-item:hover {
+  border-bottom: 1px solid;
+  color: inherit;
+}
+
+.section {
+  padding: 6rem 1.5rem 2rem;
+}
+
+.margin-left {
+  margin-left: 2rem;
+}
