@@ -54,3 +54,12 @@ nav .navbar-item:hover {
 #ecrivez-moi {
     margin-right: 1rem;
 }
+
+.footer {
+  background-color: inherit;
+}
+
+.footer b {
+  cursor: pointer;
+  text-decoration: underline;
+}
